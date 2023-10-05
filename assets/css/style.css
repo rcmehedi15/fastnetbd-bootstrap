@@ -922,9 +922,7 @@ Header Responsive Area CSS
     padding-top: 5px;
   }
 
-  .p__ {
-    display: ;
-  }
+ 
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -6912,9 +6910,7 @@ Contact Page CSS
 } */
 
 /* coustom contact section  */
-.contact-card-1 {
-  /* box-shadow: .5px .5px 5px gray; */
-}
+
 
 /*================================================
 Custom Animation Area CSS
@@ -7027,5 +7023,21 @@ Custom Animation Area CSS
     background-position: 0% 50%;
   }
 }
+.social {
+  padding-top: 5px;
+padding-bottom: 15px;
+}
 
-/*# sourceMappingURL=style.css.map */
+
+.social i{
+width: 30px;
+height: 30px;
+line-height: 30px;
+text-align: center;
+color: #fff;
+background-color: #FF0808;
+border-radius: 50px;
+}
+.social i:hover{
+  background-color: green;
+}
