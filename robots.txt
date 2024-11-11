@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /cpanel
+Disallow: /Softbrain23
+Allow: /
+
+Sitemap: https://fastnetbd.com/sitemap.xml
